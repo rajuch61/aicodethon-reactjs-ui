@@ -1,0 +1,91 @@
+.sidebar {
+  width: 220px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  height: 100vh;
+  position: fixed;
+  overflow-y: auto;
+}
+
+.sidebar ul li {
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+.top-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #222;
+  color: white;
+  padding: 10px 20px;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+}
+
+.user-icon {
+  font-size: 24px;
+  cursor: pointer;
+  color: white;
+}
+
+.video-card {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 10px;
+  margin: 16px 0;
+  background-color: #f9f9f9;
+  width: 320px;
+}
+
+.main-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+  padding: 20px;
+}
+
+.my-playlist-page {
+  padding: 20px;
+}
+
+.playlist-row {
+  margin-bottom: 40px;
+}
+
+.video-scroll-row {
+  display: flex;
+  overflow-x: auto;
+  gap: 16px;
+  padding-bottom: 10px;
+}
+
+.video-scroll-row::-webkit-scrollbar {
+  height: 8px;
+}
+
+.video-scroll-row::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 10px;
+}
+
+.playlist-page-container {
+  display: flex;
+}
+
+.playlist-content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.video-scroll-row {
+  display: flex;
+  overflow-x: auto;
+  gap: 16px;
+  padding-bottom: 10px;
+}

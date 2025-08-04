@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to AI",
+    "description": "Learn the basics of Artificial Intelligence.",
+    "uploadedBy": "alice",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=AI+Intro"
+  },
+  {
+    "id": 2,
+    "title": "Spring Boot Crash Course",
+    "description": "All about Spring Boot in one video.",
+    "uploadedBy": "bob",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=Spring+Boot"
+  },
+  {
+    "id": 3,
+    "title": "React Hooks Explained",
+    "description": "Understand useState and useEffect hooks.",
+    "uploadedBy": "charlie",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=React+Hooks"
+  },
+  {
+    "id": 4,
+    "title": "Docker for Beginners",
+    "description": "Containerize your apps with Docker.",
+    "uploadedBy": "dan",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=Docker"
+  },
+  {
+    "id": 5,
+    "title": "Kubernetes Deep Dive",
+    "description": "Master K8s architecture and deployments.",
+    "uploadedBy": "erin",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=Kubernetes"
+  },
+  {
+    "id": 6,
+    "title": "Building REST APIs",
+    "description": "How to design and build REST APIs with Spring.",
+    "uploadedBy": "fiona",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=REST+API"
+  },
+  {
+    "id": 7,
+    "title": "OAuth 2.0 Tutorial",
+    "description": "Understand how OAuth works for secure login.",
+    "uploadedBy": "george",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=OAuth2"
+  },
+  {
+    "id": 8,
+    "title": "JavaScript Promises",
+    "description": "Master async programming in JavaScript.",
+    "uploadedBy": "helen",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=Promises"
+  },
+  {
+    "id": 9,
+    "title": "HTML & CSS Basics",
+    "description": "Design your first responsive website.",
+    "uploadedBy": "ian",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=HTML+CSS"
+  },
+  {
+    "id": 10,
+    "title": "Git & GitHub Mastery",
+    "description": "Learn to manage code with Git like a pro.",
+    "uploadedBy": "jackie",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=GitHub"
+  },
+  {
+    "id": 11,
+    "title": "Linux Command Line",
+    "description": "Essential CLI skills for developers.",
+    "uploadedBy": "kevin",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=Linux"
+  },
+  {
+    "id": 12,
+    "title": "DevOps Explained",
+    "description": "CI/CD and automation fundamentals.",
+    "uploadedBy": "linda",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=DevOps"
+  },
+  {
+    "id": 13,
+    "title": "Microservices Overview",
+    "description": "Why microservices and how to build them.",
+    "uploadedBy": "mark",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=Microservices"
+  },
+  {
+    "id": 14,
+    "title": "PostgreSQL Basics",
+    "description": "Learn SQL using PostgreSQL.",
+    "uploadedBy": "nina",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=Postgres"
+  },
+  {
+    "id": 15,
+    "title": "MongoDB Essentials",
+    "description": "Intro to NoSQL with MongoDB.",
+    "uploadedBy": "oscar",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=MongoDB"
+  },
+  {
+    "id": 16,
+    "title": "Jenkins CI/CD",
+    "description": "Automate build pipelines with Jenkins.",
+    "uploadedBy": "paula",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=Jenkins"
+  },
+  {
+    "id": 17,
+    "title": "Unit Testing with JUnit",
+    "description": "Write effective unit tests in Java.",
+    "uploadedBy": "quentin",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=JUnit"
+  },
+  {
+    "id": 18,
+    "title": "TypeScript in Practice",
+    "description": "Why and how to use TypeScript in React.",
+    "uploadedBy": "rachel",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=TypeScript"
+  },
+  {
+    "id": 19,
+    "title": "AI vs Machine Learning",
+    "description": "What’s the difference and use cases.",
+    "uploadedBy": "steve",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=AI+vs+ML"
+  },
+  {
+    "id": 20,
+    "title": "VS Code Productivity",
+    "description": "Boost your coding speed with VS Code tips.",
+    "uploadedBy": "tina",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=VS+Code"
+  },
+  {
+    "id": 21,
+    "title": "Python for Beginners",
+    "description": "Start learning Python in under 30 mins.",
+    "uploadedBy": "uma",
+    "thumbnailUrl": "https://via.placeholder.com/300x180?text=Python"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "playlistName": "Java Tutorials",
+    "videos": [
+      { "id": 1, "title": "Spring Boot", "description": "Spring Boot Basics", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Spring+Boot" },
+      { "id": 2, "title": "JPA Basics", "description": "JPA Overview", "thumbnailUrl": "https://via.placeholder.com/250x150?text=JPA" },
+      { "id": 3, "title": "Hibernate", "description": "Hibernate ORM explained", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Hibernate" },
+      { "id": 4, "title": "REST API", "description": "Design RESTful services", "thumbnailUrl": "https://via.placeholder.com/250x150?text=REST" },
+      { "id": 5, "title": "Microservices", "description": "Intro to microservices", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Microservices" }
+    ]
+  },
+  {
+    "playlistName": "React Series",
+    "videos": [
+      { "id": 6, "title": "React Basics", "description": "Start React from scratch", "thumbnailUrl": "https://via.placeholder.com/250x150?text=React" },
+      { "id": 7, "title": "React Hooks", "description": "useState and useEffect", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Hooks" },
+      { "id": 8, "title": "React Router", "description": "Routing in React apps", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Router" },
+      { "id": 9, "title": "Context API", "description": "Global state in React", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Context+API" },
+      { "id": 6, "title": "React Basics", "description": "Start React from scratch", "thumbnailUrl": "https://via.placeholder.com/250x150?text=React" },
+      { "id": 7, "title": "React Hooks", "description": "useState and useEffect", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Hooks" },
+      { "id": 8, "title": "React Router", "description": "Routing in React apps", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Router" },
+      { "id": 9, "title": "Context API", "description": "Global state in React", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Context+API" },
+      { "id": 6, "title": "React Basics", "description": "Start React from scratch", "thumbnailUrl": "https://via.placeholder.com/250x150?text=React" },
+      { "id": 7, "title": "React Hooks", "description": "useState and useEffect", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Hooks" },
+      { "id": 8, "title": "React Router", "description": "Routing in React apps", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Router" },
+      { "id": 9, "title": "Context API", "description": "Global state in React", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Context+API" }
+    ]
+  },
+  {
+    "playlistName": "DevOps Essentials",
+    "videos": [
+      { "id": 10, "title": "Docker", "description": "Containerize apps", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Docker" },
+      { "id": 11, "title": "Kubernetes", "description": "K8s deployment", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Kubernetes" },
+      { "id": 12, "title": "CI/CD", "description": "Automate with Jenkins", "thumbnailUrl": "https://via.placeholder.com/250x150?text=CI+CD" }
+    ]
+  },
+  {
+    "playlistName": "AI Concepts",
+    "videos": [
+      { "id": 13, "title": "What is AI?", "description": "Overview of AI", "thumbnailUrl": "https://via.placeholder.com/250x150?text=AI" },
+      { "id": 14, "title": "Machine Learning", "description": "Supervised/Unsupervised", "thumbnailUrl": "https://via.placeholder.com/250x150?text=ML" },
+      { "id": 15, "title": "Deep Learning", "description": "Neural Networks", "thumbnailUrl": "https://via.placeholder.com/250x150?text=DL" },
+      { "id": 16, "title": "NLP", "description": "Text-based AI", "thumbnailUrl": "https://via.placeholder.com/250x150?text=NLP" },
+      { "id": 17, "title": "Computer Vision", "description": "Image classification", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Vision" }
+    ]
+  },
+  {
+    "playlistName": "Cloud Fundamentals",
+    "videos": [
+      { "id": 18, "title": "AWS Intro", "description": "Cloud basics", "thumbnailUrl": "https://via.placeholder.com/250x150?text=AWS" },
+      { "id": 19, "title": "S3 Buckets", "description": "Object storage", "thumbnailUrl": "https://via.placeholder.com/250x150?text=S3" },
+      { "id": 20, "title": "EC2", "description": "Compute on cloud", "thumbnailUrl": "https://via.placeholder.com/250x150?text=EC2" },
+      { "id": 21, "title": "Lambda", "description": "Serverless functions", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Lambda" }
+    ]
+  },
+  {
+    "playlistName": "Database Tutorials",
+    "videos": [
+      { "id": 22, "title": "SQL Basics", "description": "Learn SQL", "thumbnailUrl": "https://via.placeholder.com/250x150?text=SQL" },
+      { "id": 23, "title": "PostgreSQL", "description": "Relational DB", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Postgres" },
+      { "id": 24, "title": "MongoDB", "description": "NoSQL intro", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Mongo" },
+      { "id": 25, "title": "Indexes", "description": "Query performance", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Index" }
+    ]
+  },
+  {
+    "playlistName": "Frontend Design",
+    "videos": [
+      { "id": 26, "title": "HTML5", "description": "Web structure", "thumbnailUrl": "https://via.placeholder.com/250x150?text=HTML" },
+      { "id": 27, "title": "CSS3", "description": "Styling web pages", "thumbnailUrl": "https://via.placeholder.com/250x150?text=CSS" },
+      { "id": 28, "title": "Flexbox", "description": "Layout system", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Flexbox" },
+      { "id": 29, "title": "Responsive Design", "description": "Mobile-first UI", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Responsive" }
+    ]
+  },
+  {
+    "playlistName": "Security Basics",
+    "videos": [
+      { "id": 30, "title": "HTTPS", "description": "Web security", "thumbnailUrl": "https://via.placeholder.com/250x150?text=HTTPS" },
+      { "id": 31, "title": "JWT", "description": "Token-based auth", "thumbnailUrl": "https://via.placeholder.com/250x150?text=JWT" },
+      { "id": 32, "title": "OAuth 2.0", "description": "Login flow", "thumbnailUrl": "https://via.placeholder.com/250x150?text=OAuth" }
+    ]
+  },
+  {
+    "playlistName": "Career Tips",
+    "videos": [
+      { "id": 33, "title": "Resume Tips", "description": "Write great resumes", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Resume" },
+      { "id": 34, "title": "Interview Prep", "description": "Common questions", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Interview" },
+      { "id": 35, "title": "Job Hunt", "description": "Finding jobs", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Jobs" }
+    ]
+  },
+  {
+    "playlistName": "Productivity Hacks",
+    "videos": [
+      { "id": 36, "title": "VS Code Tips", "description": "Boost coding speed", "thumbnailUrl": "https://via.placeholder.com/250x150?text=VSCode" },
+      { "id": 37, "title": "Time Management", "description": "Work smarter", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Time" },
+      { "id": 38, "title": "Focus Tools", "description": "Avoid distractions", "thumbnailUrl": "https://via.placeholder.com/250x150?text=Focus" }
+    ]
+  }
+]

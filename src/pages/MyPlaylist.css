@@ -1,0 +1,81 @@
+/* Full page flex layout */
+.playlist-page-container {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Sidebar on the left */
+.sidebar-container {
+  width: 240px;
+  flex-shrink: 0;
+  background-color: #f4f4f4;
+  padding: 16px;
+  box-sizing: border-box;
+  height: 100vh;
+  overflow-y: auto;
+  z-index: 10;
+}
+
+/* Playlist content area on the right */
+.playlist-content {
+  flex-grow: 1;
+  padding: 20px;
+  overflow-y: auto;
+  background-color: #fff;
+  box-sizing: border-box;
+}
+
+/* Playlist sections */
+.playlist-row {
+  margin-bottom: 40px;
+}
+
+.playlist-row h3 {
+  margin-bottom: 12px;
+  font-size: 20px;
+}
+
+/* Scroll wrapper with arrows */
+.playlist-scroll-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Arrow buttons */
+.scroll-btn {
+  background-color: rgba(255, 255, 255, 0.9);
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 6px 10px;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+  z-index: 2;
+}
+
+.scroll-btn.left {
+  margin-right: 8px;
+}
+
+.scroll-btn.right {
+  margin-left: 8px;
+}
+
+/* Scrollable video row */
+.video-scroll-row {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  flex-grow: 1;
+  padding: 10px 0;
+}
+
+.video-scroll-row > * {
+  flex: 0 0 auto;
+  min-width: 240px;
+}
