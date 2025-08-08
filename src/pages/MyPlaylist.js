@@ -56,9 +56,6 @@ function MyPlaylist() {
 
   return (
     <div className="playlist-page-container">
-      <div className="sidebar-container">
-        <Sidebar />
-      </div>
       <div className="playlist-content">
         {playlists.map((playlist, index) => (
           <div key={index} className="playlist-row">

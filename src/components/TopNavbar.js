@@ -7,7 +7,7 @@ function TopNavbar() {
   const navigate = useNavigate();
 
   const handleUserClick = () => {
-    navigate("/playlist");
+    navigate("/user/playlist");
   };
 
   return (

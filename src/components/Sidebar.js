@@ -1,44 +1,22 @@
-import { Link } from 'react-router-dom';
-import {
-  FaUserCircle,
-  FaUpload,
-  FaListAlt,
-  FaHistory,
-  FaCog,
-  FaSignOutAlt
-} from 'react-icons/fa';
-
+import React from 'react';
+import { NavLink } from 'react-router-dom';
 import './Sidebar.css';
 
-function Sidebar() {
+const Sidebar = () => {
   return (
     <div className="sidebar">
-      <Link to="/profile" className="sidebar-button">
-        <FaUserCircle className="sidebar-icon" />
-        My Profile
-      </Link>
-      <Link to="/upload" className="sidebar-button">
-        <FaUpload className="sidebar-icon" />
+      <NavLink to="/user/playlist" className="sidebar-button">
+        My Playlist
+      </NavLink>
+      <NavLink to="/user/upload" className="sidebar-button">
         Upload Video
-      </Link>
-      <Link to="/watchlist" className="sidebar-button">
-        <FaListAlt className="sidebar-icon" />
+      </NavLink>
+      <NavLink to="/user/" className="sidebar-button">
         My Watchlist
-      </Link>
-      <Link to="/history" className="sidebar-button">
-        <FaHistory className="sidebar-icon" />
-        History
-      </Link>
-      <Link to="/settings" className="sidebar-button">
-        <FaCog className="sidebar-icon" />
-        Settings
-      </Link>
-      <Link to="/logout" className="sidebar-button">
-        <FaSignOutAlt className="sidebar-icon" />
-        Logout
-      </Link>
+      </NavLink>
+      {/* Add more buttons as needed */}
     </div>
   );
-}
+};
 
 export default Sidebar;
